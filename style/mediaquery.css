@@ -1,0 +1,10 @@
+@media only screen and (max-width: 780px) {
+    body {
+        background-size: 1720px;
+    }
+}
+@media only screen and (min-width: 810px) and (max-width: 1080px) {
+    body {
+        background-size: 2280px;
+    }
+}
