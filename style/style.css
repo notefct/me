@@ -1,9 +1,15 @@
 .github-link {
-    font-family: 'Josefin Sans', sans-serif;
     font-size: 25px;
     position: relative;
     top: 10px;
     color: white;
+}.github-link-image {
+    position: relative;
+    top: 8px;
+}
+.discord-logo {
+    position: relative;
+    top: 6px;
 }
 
 .figure-global {
@@ -17,7 +23,7 @@
     font-family: 'Josefin Sans', sans-serif;
     font-size: 25px;
     text-align: center;
-    color: white;
+    color: #1c1c1c;
 }.header-phrase {
     font-size: 33px;
     position: relative;
